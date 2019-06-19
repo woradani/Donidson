@@ -1,5 +1,4 @@
 # Donidson
-We Rich Bitch
 
 Ideas:
 - Don't add huge outliers to scan once decent averages have been established. (like 200% of average cost).
